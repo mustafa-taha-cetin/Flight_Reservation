@@ -1,0 +1,11 @@
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\obj\Debug\Ucak bileti alimi.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\obj\Debug\Ucak bileti alimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\obj\Debug\Ucak_bileti_alimi.Form1.resources
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\obj\Debug\Ucak_bileti_alimi.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\obj\Debug\Ucak bileti alimi.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\obj\Debug\Ucak bileti alimi.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\bin\Debug\Ucak bileti alimi.exe.config
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\bin\Debug\Ucak bileti alimi.exe
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\bin\Debug\Ucak bileti alimi.pdb
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\obj\Debug\Ucak bileti alimi.exe
+C:\Users\USER01\Desktop\C#\Ucak bileti alimi\Ucak bileti alimi\obj\Debug\Ucak bileti alimi.pdb
